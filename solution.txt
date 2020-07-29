@@ -1,0 +1,6 @@
+739
+Always forgive your enemies; nothing annoys them so much.
+0 20 60 120 200 300
+0 868
+abcdef
+2 1 6 5 4 3
